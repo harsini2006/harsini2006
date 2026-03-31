@@ -1,5 +1,4 @@
-
-<!--<div align="center">
+<div align="center">
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /> Welcome to My Profile!
 
@@ -21,15 +20,15 @@
 ## 🛠️ My Tech Arsenal
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Animated & glowing skill icons for languages, front-end, back-end, DB, and ML -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,nodejs,express,fastapi,mongodb,mysql,postgres,supabase,tensorflow,vercel,git,github&perline=8" alt="My Skills" />
-  </a>
+<a href="https://skillicons.dev">
+<!-- Animated & glowing skill icons for languages, front-end, back-end, DB, and ML -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,nodejs,express,fastapi,mongodb,mysql,postgres,supabase,tensorflow,vercel,git,github&perline=8" alt="My Skills" />
+</a>
 </p>
 <p align="center">
-  <!-- Extra tools using shields.io -->
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+<!-- Extra tools using shields.io -->
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/trinhanhngoc/trinhanhngoc/master/assets/images/line2.gif" width="100%" alt="Line Divider">
@@ -76,19 +75,22 @@
 </p>
 
 <p align="center">
-  <!-- Glowing neon dark themed GitHub stat cards -->
-  <a href="https://github.com/harsini2006">
-    <img src="https://github-readme-stats.vercel.app/api?username=harsini2006&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/harsini2006">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsini2006&layout=compact&theme=neon&hide_border=true" alt="Top Languages" />
-  </a>
+<!-- GitHub API rate-limits have temporarily paused the github-readme-stats public Vercel instances. -->
+<!-- You can uncomment these once the public service is restored, or use the GitHub Action locally if you want them back! -->
+<!--
+<a href="https://github.com/harsini2006">
+<img src="https://github-readme-stats.vercel.app/api?username=harsini2006&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/harsini2006">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsini2006&layout=compact&theme=neon&hide_border=true" alt="Top Languages" />
+</a>
+-->
 </p>
 <p align="center">
-  <!-- GitHub Streak stat with matching neon theme -->
-  <a href="https://github.com/harsini2006">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsini2006&theme=neon&hide_border=true" alt="GitHub Streak" />
-  </a>
+<!-- GitHub Streak stat with matching neon theme -->
+<a href="https://github.com/harsini2006">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsini2006&theme=neon&hide_border=true" alt="GitHub Streak" />
+</a>
 </p>
 
 <img src="https://raw.githubusercontent.com/trinhanhngoc/trinhanhngoc/master/assets/images/line2.gif" width="100%" alt="Line Divider">
@@ -96,16 +98,16 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <!-- Placeholder links for connecting - can be edited by the user -->
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Neon?style=for-the-badge&logo=Web&logoColor=white&color=000" alt="Portfolio" />
-  </a>
+<!-- Placeholder links for connecting - can be edited by the user -->
+<a href="mailto:your.email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/your-linkedin-profile">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Neon?style=for-the-badge&logo=Web&logoColor=white&color=000" alt="Portfolio" />
+</a>
 </p>
 
 ---
