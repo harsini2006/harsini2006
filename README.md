@@ -195,5 +195,11 @@ I'd love to explore the intersection of technology and finance, experience the w
     alt="One idea at a time"
   />
 </p>
-
 <br/>
+<p align="center">
+  <img
+    src="./assets/harsini-readme-assets/assets/harsini-divider.svg"
+    width="100%"
+    alt="Animated pixel computer with shooting stars"
+  />
+</p>
