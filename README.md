@@ -40,130 +40,141 @@
 
 <br/>
 
-<!-- =========================================================
-     HARSINI — DEAR INTERNET DIARY
-     ========================================================= -->
+
+<!-- ======================================================
+     HARSINI RAMESH | PIXEL DIARY ABOUT ME
+     ====================================================== -->
 
 <br/>
 
-<!-- DIARY OPENING -->
+<!-- INTRODUCTION -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=30&duration=3000&pause=999999&color=A88AE0&center=true&vCenter=true&width=650&height=55&lines=dear+internet+diary..."
-    alt="Dear Internet Diary"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=36&duration=3000&pause=999999&color=A88AE0&center=true&vCenter=true&width=650&height=65&lines=Harsini+Ramesh+%E2%9C%A6"
+    alt="Harsini Ramesh"
   />
+</p>
+
+<p align="center">
+  <i>A little corner of the internet, and a little bit about Me.</i>
 </p>
 
 <br/>
 
-<table align="center" width="92%">
+<!-- ======================================================
+     ABOUT ME + CODING FOX
+     ====================================================== -->
+
+<table align="center" width="95%">
 <tr>
 
-<!-- ================= LEFT PAGE ================= -->
+<!-- LEFT COLUMN -->
 
 <td width="58%" valign="top">
+
+<!-- PERSONAL INTRO -->
 
 <p>
   <img
     src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=27&duration=3000&pause=999999&color=F4A6D7&width=500&height=50&lines=okay%2C+here's+the+thing...+%E2%99%A1"
-    alt="Okay, here's the thing"
+    alt="Okay, SO here's the thing"
   />
 </p>
 
-<p>
-I'm <b>Harsini</b> — a Computer Science and Business Systems
-Engineering student who loves building things, experimenting with
-ideas and occasionally questioning why the code worked five minutes ago.
-</p>
+I'm **Harsini**, a Computer Science and Business Systems Engineering student who loves building things, experimenting with ideas and occasionally questioning why the code worked five minutes ago.
 
-<p>
-I'm into <b>software development, AI/ML</b> and creating technology
-that solves actual problems.
-</p>
+I'm interested in **software development, AI/ML and creating technology that solves actual problems.**
 
 <br/>
 
-<!-- CURRENTLY INTO -->
+<!-- INTERESTS -->
 
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=27&duration=3000&pause=999999&color=A88AE0&width=560&height=50&lines=things+I'm+currently+into+%E2%86%92"
-    alt="Things I'm currently into"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=27&duration=3000&pause=999999&color=EA963F&width=560&height=50&lines=currently+plotting...+%E2%99%A1"
+    alt="Currently plotting"
   />
 </p>
 
-<p>
-  ✦ software development & AI/ML<br/>
-  ✦ hackathons & building projects<br/>
-  ✦ technology + business<br/>
-  ✦ financial markets & investment banking<br/>
-  ✦ entrepreneurship & new ideas
-</p>
+- ✦ Software development & AI/ML
+- ✦ Hackathons and building projects
+- ✦ Technology and business
+- ✦ Financial markets and investment banking
+- ✦ Entrepreneurship and new ideas
 
 <br/>
 
-<!-- MORE ABOUT ME -->
+<!-- BUILDING -->
 
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=27&duration=3000&pause=999999&color=F4A6D7&width=520&height=50&lines=a+little+more+about+me...+%E2%86%93"
-    alt="A little more about me"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=27&duration=3000&pause=999999&color=EA963F&width=560&height=50&lines=patch+notes%3A+me+lately+%E2%9C%A6"
+    alt="Patch notes: me lately"
   />
 </p>
 
-<p>
-Technology isn't the only world I'm interested in.
-</p>
+Currently exploring new technologies, developing projects, participating in hackathons and learning how to turn ideas into useful products.
 
-<p>
-I'm fascinated by <b>investment banking, financial markets and
-entrepreneurship</b>. I'd love to explore the intersection of
-technology and finance, experience the world of investment banking
-and eventually venture into different entrepreneurial spaces to
-build ideas of my own.
-</p>
+I'm working towards becoming a **Software Development Engineer** and getting better at building things from the ground up.
 
 <br/>
 
-<p align="right">
+<!-- PERSONAL INTERESTS -->
+
+<p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=21&duration=3000&pause=999999&color=EA963F&width=420&height=40&lines=↳+still+figuring+out+where+all+of+this+goes..."
-    alt="Still figuring things out"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=27&duration=3000&pause=999999&color=F4A6D7&width=560&height=50&lines=outside+the+code...+%E2%99%A1"
+    alt="Outside the code"
   />
 </p>
+
+I'm also fascinated by **investment banking, financial markets and entrepreneurship**.
+
+I'd love to explore the intersection of technology and finance, experience the world of investment banking and eventually venture into different entrepreneurial spaces to build ideas of my own.
 
 </td>
 
 
-<!-- ================= RIGHT PAGE ================= -->
+<!-- RIGHT COLUMN -->
 
 <td width="42%" valign="middle" align="center">
 
-<!-- ACTUAL ANIMATED FOX -->
+<br/>
+
+<!-- ACTUAL ANIMATED CODING FOX GIF -->
 
 <img
   src="./assets/harsini-readme-assets/assets/coding-fox.gif"
-  width="340"
+  width="330"
   alt="Harsini's animated coding fox"
 />
 
 <br/>
 <br/>
 
-<!-- HANDWRITTEN NOTE BESIDE FOX -->
+<!-- HANDWRITTEN CODING NOTE -->
 
-<p>
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=25&duration=3000&pause=999999&color=EA963F&center=true&vCenter=true&width=420&height=45&lines=current+status+%E2%86%92+building+things"
     alt="Current status: building things"
   />
 </p>
 
-<p>
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=22&duration=3000&pause=999999&color=A88AE0&center=true&vCenter=true&width=400&height=100&lines=build+%E2%86%92+break+%E2%86%92+debug+%E2%86%92+repeat;probably+debugging+something..."
-    alt="Build break debug repeat"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=23&duration=3000&pause=999999&color=A88AE0&center=true&vCenter=true&width=400&height=100&lines=build+%E2%86%92+break;debug+%E2%86%92+repeat"
+    alt="Build, break, debug, repeat"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=21&duration=3000&pause=999999&color=F4A6D7&center=true&vCenter=true&width=380&height=45&lines=probably+debugging+something..."
+    alt="Probably debugging something"
   />
 </p>
 
@@ -174,12 +185,14 @@ build ideas of my own.
 
 <br/>
 
-<!-- DIARY END NOTE -->
+<!-- ======================================================
+     CLOSING NOTE
+     ====================================================== -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=25&duration=3000&pause=999999&color=A88AE0&center=true&vCenter=true&width=600&height=50&lines=✦+that's+all+for+today%2C+internet+diary..."
-    alt="That's all for today, internet diary"
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=27&duration=3000&pause=999999&color=A88AE0&center=true&vCenter=true&width=650&height=50&lines=one+idea+at+a+time+%E2%9C%A6"
+    alt="One idea at a time"
   />
 </p>
 
