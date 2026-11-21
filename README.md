@@ -195,11 +195,122 @@ I'd love to explore the intersection of technology and finance, experience the w
     alt="One idea at a time"
   />
 </p>
-<br/>
+
+
 <p align="center">
   <img
     src="./assets/harsini-readme-assets/assets/pixel-cpu-divider.svg"
     width="100%"
     alt="Animated pixel CPU with shooting stars"
   />
+</p>
+
+<!-- ACHIEVEMENTS & LEADERSHIP -->
+
+<!-- ACHIEVEMENTS -->
+
+<br></br>
+
+<!-- ✦ ACHIEVEMENTS & LITTLE WINS ✦ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=29&duration=3000&pause=999999&color=F4A340&width=500&height=45&lines=the+little+things+that+add+up...+%E2%9C%A6" alt="The Little things that add up   "/>
+</p>
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#302644" width="50%">
+  <br/>
+  <img src="https://img.shields.io/badge/HACKATHON-01-F4A340?style=for-the-badge&labelColor=49375F"/>
+  <h2><font color="#F4A340">2ND PLACE</font></h2>
+  <font color="#F7E9D7"><b>KANAD S.H.I.E.L.D. 2026</b></font>
+  <br/>
+  <font color="#CDB9F3">Gujarat Government × i-Hub Gujarat</font>
+  <br/><br/>
+</td>
+<td align="center" bgcolor="#49375F" width="50%">
+  <br/>
+  <img src="https://img.shields.io/badge/HACKATHON-02-F4A6D7?style=for-the-badge&labelColor=302644"/>
+  <h2><font color="#F4A6D7">RUNNER-UP</font></h2>
+  <font color="#F7E9D7"><b>DSCI × RVCE SheSafe</b></font>
+  <br/>
+  <font color="#DCCCF5">Women in Cloud Hackathon</font>
+  <br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#F4E8F8" width="33%">
+  <h1><font color="#916BCB">04+</font></h1>
+  <b><font color="#49375F">HACKATHON FINALS</font></b>
+  <br/>
+  <sub>National competitions</sub>
+</td>
+<td align="center" bgcolor="#FCE9D8" width="34%">
+  <h1><font color="#D77B32">150+</font></h1>
+  <b><font color="#49375F">LEETCODE</font></b>
+  <br/>
+  <sub>Problems solved</sub>
+</td>
+<td align="center" bgcolor="#E9E1FA" width="33%">
+  <h1><font color="#916BCB">81%</font></h1>
+  <b><font color="#49375F">AWS CERTIFIED</font></b>
+  <br/>
+  <sub>Cloud Practitioner</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦-LEADERSHIP-49375F?style=for-the-badge"/>
+</p>
+
+<table width="100%">
+<tr>
+<td bgcolor="#F4E8F8" width="50%" valign="top">
+  <h3><font color="#8059B5">♧ DEUTROS</font></h3>
+  <b>Founder & President</b>
+  <br/>
+  Led a team of 40+ students at the CIT German Club.
+</td>
+<td bgcolor="#FCE9D8" width="50%" valign="top">
+  <h3><font color="#C77732">✎ GERMAN A1</font></h3>
+  <b>Language Mentor</b>
+  <br/>
+  Conducted beginner German language training.
+</td>
+</tr>
+<tr>
+<td bgcolor="#E9E1FA" width="50%" valign="top">
+  <h3><font color="#8059B5">✦ UI/UX</font></h3>
+  <b>Workshop Host</b>
+  <br/>
+  Conducted design workshops for 30+ students.
+</td>
+<td bgcolor="#FBE5EC" width="50%" valign="top">
+  <h3><font color="#C66B91">⌘ RESEARCH</font></h3>
+  <b>Blockchain & Supply Chain</b>
+  <br/>
+  Research collaboration with faculty.
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-A88AE0?style=for-the-badge&labelColor=302644"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GOETHE-German%20A1-916BCB?style=flat-square&labelColor=302644"/>
+  <img src="https://img.shields.io/badge/CISCO-AI%20%7C%20DS%20%7C%20Cybersecurity-5E91C9?style=flat-square&labelColor=302644"/>
+  <img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20Data%20Analytics-EA963F?style=flat-square&labelColor=302644"/>
+  <img src="https://img.shields.io/badge/MONGODB-Skillathon-65A987?style=flat-square&labelColor=302644"/>
 </p>
