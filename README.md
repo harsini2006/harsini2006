@@ -738,3 +738,79 @@ I'd love to explore the intersection of technology and finance, experience the w
 
 <!-- END GITHUB STATS -->
 
+
+<!-- ================================================= -->
+<!--              CONTACT & CLOSING                    -->
+<!-- ================================================= -->
+
+<p align="center">
+  <img
+    src="./assets/harsini-readme-assets/assets/pixel-cpu-divider.svg"
+    width="100%"
+    alt="Pixel CPU shooting star divider"
+  />
+</p>
+
+<br/><br/>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=30&duration=3000&pause=999999&color=F4A6D7&width=500&height=45&lines=let's+make+something+cool+together+%E2%9C%A6"
+    alt="Let's make something cool together"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <font color="#49375F">
+    Got an interesting idea, a project, or just want to talk tech?
+    <br/>
+    My inbox is always open!
+  </font>
+</p>
+
+<br/>
+
+<!-- CONTACT LINKS -->
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-FCE4F1-49375F?style=for-the-badge&logo=gmail&logoColor=49375F"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LINKEDIN-EDE4FF-49375F?style=for-the-badge&logo=linkedin&logoColor=49375F"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/harsini2006">
+    <img src="https://img.shields.io/badge/GITHUB-FFF0E4-49375F?style=for-the-badge&logo=github&logoColor=49375F"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- CLOSING ART -->
+
+<p align="center">
+  <img
+    src="YOUR_PIXEL_ART_IMAGE_PATH"
+    width="320"
+    alt="A little pixel-art goodbye illustration"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=25&duration=3500&pause=1000&color=EA963F&center=true&vCenter=true&width=500&height=40&lines=thanks+for+stopping+by!+%E2%99%A1;see+you+in+the+next+commit..."
+    alt="Thanks for stopping by"
+  />
+</p>
+
+<p align="center">
+  <sub>✦ built with curiosity, caffeine & a little bit of chaos ✦</sub>
+</p>
+
+<!-- ================================================= -->
+<!--                  END OF README                    -->
+<!-- ================================================= -->
