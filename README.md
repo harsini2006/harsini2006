@@ -719,17 +719,6 @@ I'd love to explore the intersection of technology and finance, experience the w
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE -->
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/harsini2006/harsini2006/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub contribution snake"
-  />
-</p>
-
-<br/>
 
 <p align="center">
   <img
