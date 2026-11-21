@@ -1,98 +1,89 @@
 
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 80" width="1000" height="80" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="1000" height="100" role="img">
   <defs>
-    <linearGradient id="shootTrail" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="trail" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#A88AE0" stop-opacity="0"/>
-      <stop offset="65%" stop-color="#A88AE0" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#FFE6A7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#A88AE0" stop-opacity="0.95"/>
     </linearGradient>
-    <linearGradient id="mainLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F4A340" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#F4A340" stop-opacity="0.65"/>
-      <stop offset="50%" stop-color="#A88AE0" stop-opacity="0.9"/>
-      <stop offset="70%" stop-color="#F4A340" stop-opacity="0.65"/>
-      <stop offset="100%" stop-color="#F4A340" stop-opacity="0"/>
-    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
-
-  <line x1="0" y1="40" x2="1000" y2="40" stroke="#35415A" stroke-width="1"/>
-  <line x1="0" y1="40" x2="1000" y2="40" stroke="url(#mainLine)" stroke-width="1.5"/>
-
-  <g stroke="#56617B" stroke-width="1" opacity="0.45">
-    <path d="M70 34V46 M140 30V50 M210 34V46 M280 30V50 M350 34V46 M420 30V50"/>
-    <path d="M580 34V46 M650 30V50 M720 34V46 M790 30V50 M860 34V46 M930 30V50"/>
-  </g>
-
-  <g fill="#FFE6A7">
-    <circle cx="115" cy="23" r="2">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="245" cy="54" r="1.6">
-      <animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="375" cy="18" r="2">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="625" cy="59" r="1.8">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="755" cy="21" r="2">
-      <animate attributeName="opacity" values="1;0.2;1" dur="2.1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="885" cy="55" r="1.6">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <g fill="#A88AE0">
-    <path d="M185 15 L188 22 L195 25 L188 28 L185 35 L182 28 L175 25 L182 22 Z">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
-    </path>
-    <path d="M815 44 L817 49 L822 51 L817 53 L815 58 L813 53 L808 51 L813 49 Z">
-      <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
-    </path>
-  </g>
 
   <!-- Shooting star 1 -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="-100 0;1100 0" dur="8s" begin="0s" repeatCount="indefinite"/>
-    <g transform="translate(0 16) rotate(-12)">
-      <path d="M-48 0 H-5" stroke="url(#shootTrail)" stroke-width="2.5" stroke-linecap="round"/>
-      <path d="M0 -5 L1.5 -1.5 L5 0 L1.5 1.5 L0 5 L-1.5 1.5 L-5 0 L-1.5 -1.5 Z" fill="#FFE6A7"/>
-    </g>
+    <path d="M70 27 L180 27" stroke="url(#trail)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M180 20 L187 27 L180 34 L173 27 Z" fill="#F4A6D7"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="-150 0; 850 0" dur="5s" repeatCount="indefinite"/>
   </g>
 
   <!-- Shooting star 2 -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="-180 0;1180 0" dur="11s" begin="2.5s" repeatCount="indefinite"/>
-    <g transform="translate(0 61) rotate(-10)">
-      <path d="M-34 0 H-4" stroke="url(#shootTrail)" stroke-width="2" stroke-linecap="round"/>
-      <path d="M0 -4 L1 -1 L4 0 L1 1 L0 4 L-1 1 L-4 0 L-1 -1 Z" fill="#F4A340"/>
-    </g>
+    <path d="M250 70 L335 70" stroke="url(#trail)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M335 62 L343 70 L335 78 L327 70 Z" fill="#F4A340"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="-250 0; 900 0" dur="6.5s" begin="1.5s" repeatCount="indefinite"/>
   </g>
 
   <!-- Shooting star 3 -->
   <g>
-    <animateTransform attributeName="transform" type="translate" values="-120 0;1120 0" dur="13s" begin="5s" repeatCount="indefinite"/>
-    <g transform="translate(0 31) rotate(-8)">
-      <path d="M-25 0 H-3" stroke="url(#shootTrail)" stroke-width="1.6" stroke-linecap="round"/>
-      <path d="M0 -3 L1 -1 L3 0 L1 1 L0 3 L-1 1 L-3 0 L-1 -1 Z" fill="#A88AE0"/>
-    </g>
+    <path d="M680 19 L765 19" stroke="url(#trail)" stroke-width="3" stroke-linecap="round"/>
+    <path d="M765 10 L774 19 L765 28 L756 19 Z" fill="#A88AE0"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="-200 0; 950 0" dur="5.8s" begin="3s" repeatCount="indefinite"/>
   </g>
 
-  <circle cx="500" cy="40" r="42" fill="#A88AE0" opacity="0.08"/>
+  <!-- Central pixel CPU -->
+  <g transform="translate(500 50)" filter="url(#glow)">
+    <!-- CPU pins -->
+    <g fill="#F4A340">
+      <rect x="-5" y="-39" width="10" height="10"/>
+      <rect x="-5" y="29" width="10" height="10"/>
+      <rect x="-39" y="-5" width="10" height="10"/>
+      <rect x="29" y="-5" width="10" height="10"/>
 
-  <!-- Central pixel computer -->
-  <g>
-    <rect x="470" y="17" width="60" height="40" rx="5" fill="#29213D" stroke="#F4A340" stroke-width="2"/>
-    <rect x="476" y="23" width="48" height="26" rx="2" fill="#17253D" stroke="#A88AE0" stroke-width="1.5"/>
-    <path d="M486 30 L482 36 L486 42 M494 30 L498 36 L494 42" fill="none" stroke="#F4A340" stroke-width="2" stroke-linecap="square"/>
-    <path d="M503 42 L507 30" stroke="#A88AE0" stroke-width="2" stroke-linecap="square"/>
-    <path d="M493 57 V62 H507 V57" fill="#A88AE0"/>
-    <rect x="484" y="62" width="32" height="4" rx="2" fill="#F4A340"/>
-    <circle cx="518" cy="52" r="1.5" fill="#FFE6A7">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
+      <rect x="-24" y="-39" width="7" height="10"/>
+      <rect x="17" y="-39" width="7" height="10"/>
+      <rect x="-24" y="29" width="7" height="10"/>
+      <rect x="17" y="29" width="7" height="10"/>
+
+      <rect x="-39" y="-24" width="10" height="7"/>
+      <rect x="-39" y="17" width="10" height="7"/>
+      <rect x="29" y="-24" width="10" height="7"/>
+      <rect x="29" y="17" width="10" height="7"/>
+    </g>
+
+    <!-- Chip body -->
+    <rect x="-29" y="-29" width="58" height="58"
+      fill="#25213A" stroke="#A88AE0" stroke-width="3"/>
+
+    <!-- Inner pixel frame -->
+    <rect x="-21" y="-21" width="42" height="42"
+      fill="#393052" stroke="#F4A340" stroke-width="2"/>
+
+    <!-- Pixel circuit detail -->
+    <g fill="#F4A6D7">
+      <rect x="-13" y="-13" width="8" height="8"/>
+      <rect x="5" y="-13" width="8" height="8"/>
+      <rect x="-13" y="5" width="8" height="8"/>
+      <rect x="5" y="5" width="8" height="8"/>
+    </g>
+    <rect x="-5" y="-5" width="10" height="10" fill="#F4A340"/>
+    <rect x="-2" y="-2" width="4" height="4" fill="#FFF0D5"/>
+  </g>
+
+  <!-- Tiny accent sparkles -->
+  <g fill="#F4A340">
+    <path d="M390 36 L394 45 L403 49 L394 53 L390 62 L386 53 L377 49 L386 45 Z"/>
+    <path d="M610 37 L613 44 L620 47 L613 50 L610 57 L607 50 L600 47 L607 44 Z"/>
+  </g>
+  <g fill="#A88AE0">
+    <path d="M430 76 L433 82 L439 85 L433 88 L430 94 L427 88 L421 85 L427 82 Z"/>
+    <path d="M570 8 L573 14 L579 17 L573 20 L570 26 L567 20 L561 17 L567 14 Z"/>
   </g>
 </svg>
