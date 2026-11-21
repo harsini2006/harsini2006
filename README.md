@@ -198,8 +198,8 @@ I'd love to explore the intersection of technology and finance, experience the w
 <br/>
 <p align="center">
   <img
-    src="./assets/harsini-readme-assets/assets/harsini-divider.svg"
+    src="./assets/harsini-readme-assets/assets/pixel-cpu-divider.svg"
     width="100%"
-    alt="Animated pixel computer with shooting stars"
+    alt="Animated pixel CPU with shooting stars"
   />
 </p>
