@@ -739,12 +739,11 @@ I'd love to explore the intersection of technology and finance, experience the w
 <!-- END GITHUB STATS -->
 
 <!-- CLOSING ART -->
-
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/harsini2006/harsini2006/main/assets/harsini-readme-assets/assets/Gemini_Generated_Gif_52ukeh52ukeh52uk.gif"
+    src="./assets/harsini-readme-assets/assets/finalbye.gif"
     width="320"
-    alt="Pixel art goodbye animation"
+    alt="Screen recording"
   />
 </p>
 
