@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="./assets/harsini-readme-assets/assets/fox-top-banner.png"
@@ -6,6 +5,7 @@
     width="100%"
   />
 </p>
+
 <div align="center">
 
 <!-- SPACE AFTER FOX -->
@@ -26,6 +26,9 @@
   <strong><em>Making my mark, one pixel at a time. ✦</em></strong>
 </p>
 
+</div>
+
+<br/>
 
 <!-- MY LITTLE CODING WORLD -->
 
@@ -36,10 +39,10 @@
     width="650"
   />
 </p>
+
 <div align="center">
 
 <br/>
-
 
 <!-- ======================================================
      HARSINI RAMESH | PIXEL DIARY ABOUT ME
@@ -196,7 +199,6 @@ I'd love to explore the intersection of technology and finance, experience the w
   />
 </p>
 
-
 <p align="center">
   <img
     src="./assets/harsini-readme-assets/assets/pixel-cpu-divider.svg"
@@ -228,6 +230,7 @@ I'd love to explore the intersection of technology and finance, experience the w
   <font color="#CDB9F3">Gujarat Government × i-Hub Gujarat</font>
   <br/><br/>
 </td>
+
 <td align="center" bgcolor="#49375F" width="50%">
   <br/>
   <img src="https://img.shields.io/badge/HACKATHON-02-F4A6D7?style=for-the-badge&labelColor=302644"/>
@@ -244,24 +247,28 @@ I'd love to explore the intersection of technology and finance, experience the w
 
 <table width="100%">
 <tr>
+
 <td align="center" bgcolor="#F4E8F8" width="33%">
   <h1><font color="#916BCB">04+</font></h1>
   <b><font color="#49375F">HACKATHON FINALS</font></b>
   <br/>
   <sub>National competitions</sub>
 </td>
+
 <td align="center" bgcolor="#FCE9D8" width="34%">
   <h1><font color="#D77B32">150+</font></h1>
   <b><font color="#49375F">LEETCODE</font></b>
   <br/>
   <sub>Problems solved</sub>
 </td>
+
 <td align="center" bgcolor="#E9E1FA" width="33%">
   <h1><font color="#916BCB">81%</font></h1>
   <b><font color="#49375F">AWS CERTIFIED</font></b>
   <br/>
   <sub>Cloud Practitioner</sub>
 </td>
+
 </tr>
 </table>
 
@@ -273,32 +280,39 @@ I'd love to explore the intersection of technology and finance, experience the w
 
 <table width="100%">
 <tr>
+
 <td bgcolor="#F4E8F8" width="50%" valign="top">
   <h3><font color="#8059B5">♧ DEUTROS</font></h3>
   <b>Founder & President</b>
   <br/>
   Led a team of 40+ students at the CIT German Club.
 </td>
+
 <td bgcolor="#FCE9D8" width="50%" valign="top">
   <h3><font color="#C77732">✎ GERMAN A1</font></h3>
   <b>Language Mentor</b>
   <br/>
   Conducted beginner German language training.
 </td>
+
 </tr>
+
 <tr>
+
 <td bgcolor="#E9E1FA" width="50%" valign="top">
   <h3><font color="#8059B5">✦ UI/UX</font></h3>
   <b>Workshop Host</b>
   <br/>
   Conducted design workshops for 30+ students.
 </td>
+
 <td bgcolor="#FBE5EC" width="50%" valign="top">
   <h3><font color="#C66B91">⌘ RESEARCH</font></h3>
   <b>Blockchain & Supply Chain</b>
   <br/>
   Research collaboration with faculty.
 </td>
+
 </tr>
 </table>
 
@@ -314,30 +328,36 @@ I'd love to explore the intersection of technology and finance, experience the w
   <img src="https://img.shields.io/badge/NPTEL-IoT%20%7C%20Data%20Analytics-EA963F?style=flat-square&labelColor=302644"/>
   <img src="https://img.shields.io/badge/MONGODB-Skillathon-65A987?style=flat-square&labelColor=302644"/>
 </p>
+
 <!-- CPU DIVIDER -->
+
 <br></br>
+
 <p align="center">
   <img src="./assets/harsini-readme-assets/assets/pixel-cpu-divider.svg"
        width="100%"
        alt="Pixel CPU shooting star divider"/>
 </p>
 
-<!-- SECTION 7: TECH STACK -->
-<!-- Paste the entire Tech Stack code here -->
+<!-- ================================================= -->
+<!--             ✦ TECH STACK ✦                       -->
+<!-- ================================================= -->
 
-<!-- ✦ TECH STACK -->
 <br></br>
 <br></br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=29&duration=3000&pause=999999&color=EA963F&width=500&height=45&lines=things+in+my+toolbox...+%E2%9C%A6" alt=" my toolkit!"/>
 </p>
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top" bgcolor="#302644">
   <p align="center">
     <img src="https://img.shields.io/badge/01-LANGUAGES-F4A340?style=for-the-badge&labelColor=49375F"/>
   </p>
+
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -347,10 +367,12 @@ I'd love to explore the intersection of technology and finance, experience the w
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   </p>
 </td>
+
 <td width="50%" valign="top" bgcolor="#49375F">
   <p align="center">
     <img src="https://img.shields.io/badge/02-WEB%20%26%20BACKEND-F4A6D7?style=for-the-badge&labelColor=302644"/>
   </p>
+
   <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -359,13 +381,16 @@ I'd love to explore the intersection of technology and finance, experience the w
     <img src="https://img.shields.io/badge/REST%20APIs-49375F?style=flat-square"/>
   </p>
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top" bgcolor="#49375F">
   <p align="center">
     <img src="https://img.shields.io/badge/03-AI%20%2F%20ML-A88AE0?style=for-the-badge&labelColor=302644"/>
   </p>
+
   <p align="center">
     <img src="https://img.shields.io/badge/Machine%20Learning-FF9A3C?style=flat-square"/>
     <img src="https://img.shields.io/badge/Deep%20Learning-916BCB?style=flat-square"/>
@@ -374,10 +399,12 @@ I'd love to explore the intersection of technology and finance, experience the w
     <img src="https://img.shields.io/badge/Data%20Analytics-65A987?style=flat-square"/>
   </p>
 </td>
+
 <td width="50%" valign="top" bgcolor="#302644">
   <p align="center">
     <img src="https://img.shields.io/badge/04-DATABASES-F4A340?style=for-the-badge&labelColor=49375F"/>
   </p>
+
   <p align="center">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -385,26 +412,32 @@ I'd love to explore the intersection of technology and finance, experience the w
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
   </p>
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2" valign="top" bgcolor="#F4E8F8">
   <p align="center">
     <img src="https://img.shields.io/badge/05-MOBILE%20DEVELOPMENT-916BCB?style=for-the-badge&labelColor=49375F"/>
   </p>
+
   <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android%20Accessibility%20APIs-3DDC84?style=flat-square&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
   </p>
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2" valign="top" bgcolor="#FCE9D8">
   <p align="center">
     <img src="https://img.shields.io/badge/06-TOOLS%20%26%20WORKFLOW-EA963F?style=for-the-badge&labelColor=49375F"/>
   </p>
+
   <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -416,13 +449,13 @@ I'd love to explore the intersection of technology and finance, experience the w
     <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
   </p>
 </td>
+
 </tr>
 </table>
 
 <!-- ================================================= -->
 <!--             ✦ PROJECT SHOWCASE ✦                 -->
 <!-- ================================================= -->
-
 
 <!-- ================================================= -->
 <!--                 PROJECT SHOWCASE                  -->
@@ -453,7 +486,7 @@ I'd love to explore the intersection of technology and finance, experience the w
 <br/>
 
 <!-- ================================================= -->
-<!-- 01 — NETFORENSIQ                                   -->
+<!-- 01 — NETFORENSIQ                                  -->
 <!-- ================================================= -->
 
 <table width="100%">
@@ -525,7 +558,7 @@ I'd love to explore the intersection of technology and finance, experience the w
 <br/>
 
 <!-- ================================================= -->
-<!-- 02 — CONSENTLENS                                   -->
+<!-- 02 — CONSENTLENS                                  -->
 <!-- ================================================= -->
 
 <table width="100%">
@@ -578,7 +611,7 @@ I'd love to explore the intersection of technology and finance, experience the w
 </p>
 
 <p align="center">
-  <a href="https://github.com/harsini2006/ConsentLens">
+  <a href="https://github.com/harsini2006/ConsentLensFinal">
     <img
       src="https://img.shields.io/badge/VIEW%20PROJECT-F4A6D7?style=for-the-badge&logo=github&logoColor=302644"
       alt="View ConsentLens"
@@ -595,7 +628,7 @@ I'd love to explore the intersection of technology and finance, experience the w
 <br/>
 
 <!-- ================================================= -->
-<!-- 03 — GUARDIAN SOS                                  -->
+<!-- 03 — GUARDIAN SOS                                 -->
 <!-- ================================================= -->
 
 <table width="100%">
@@ -649,7 +682,7 @@ I'd love to explore the intersection of technology and finance, experience the w
 </p>
 
 <p align="center">
-  <a href="https://github.com/harsini2006/RoadSafety">
+  <a href="https://github.com/harsini2006/GuardianSOSfinal">
     <img
       src="https://img.shields.io/badge/VIEW%20PROJECT-EA963F?style=for-the-badge&logo=github&logoColor=302644"
       alt="View Guardian SOS"
@@ -663,13 +696,14 @@ I'd love to explore the intersection of technology and finance, experience the w
 </tr>
 </table>
 
+<br/>
+
 <!-- ================================================= -->
 <!--              END PROJECT SHOWCASE                 -->
 <!-- ================================================= -->
 
-
-
 <!-- CLOSING ART -->
+
 <p align="center">
   <img
     src="./assets/harsini-readme-assets/assets/finalbye.gif"
