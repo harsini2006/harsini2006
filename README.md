@@ -486,218 +486,237 @@ I'd love to explore the intersection of technology and finance, experience the w
 <br/>
 
 <!-- ================================================= -->
-<!-- 01 — NETFORENSIQ                                  -->
+<!-- PROJECTS — SINGLE TABLE                           -->
 <!-- ================================================= -->
 
 <table width="100%">
 <tr>
-<td bgcolor="#302644">
+
+<!-- ================= NETFORENSIQ ================= -->
+
+<td width="33%" valign="top" align="center" bgcolor="#302644">
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-AWARD%20WINNING%20PROJECT-F4A340?style=for-the-badge&labelColor=49375F"/>
-</p>
+<img
+  src="https://img.shields.io/badge/01-AWARD%20WINNING-F4A340?style=for-the-badge&labelColor=49375F"
+/>
 
-<h2 align="center">
+<br/><br/>
+
+<h2>
   <font color="#F4A340">NetForensiq</font>
 </h2>
 
-<p align="center">
-  <font color="#F7E9D7">
-    <b>Network & Packet Forensics Platform</b>
-  </font>
-</p>
+<font color="#F7E9D7">
+  <b>Network & Packet Forensics</b>
+</font>
 
-<p align="center">
-  <font color="#DCCCF5">
-    A digital forensics platform built for evidence integrity,
-    deterministic threat detection and investigation workflows.
-  </font>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/2ND%20PLACE-KANAD%20S.H.I.E.L.D.%202026-F4A340?style=flat-square"/>
-</p>
+<font color="#DCCCF5">
+  Digital forensics platform focused on evidence integrity,
+  threat detection and investigation workflows.
+</font>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zeek-49375F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Suricata-EA963F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <font color="#F4A340"><b>✦ KEY HIGHLIGHTS</b></font>
-  <br/><br/>
-  <font color="#F7E9D7">
-    Hash-chained evidence custody · PCAP & APK analysis
-    <br/>
-    MITRE ATT&CK mapping · SIEM exports
-    <br/>
-    Up to <b>11.1× faster</b> packet parsing on a 200 MB capture
-  </font>
-</p>
+<img
+  src="https://img.shields.io/badge/2ND%20PLACE-KANAD%20S.H.I.E.L.D.%202026-F4A340?style=flat-square"
+/>
 
-<p align="center">
-  <a href="https://github.com/harsini2006/NetForensiq">
-    <img
-      src="https://img.shields.io/badge/VIEW%20PROJECT-F4A340?style=for-the-badge&logo=github&logoColor=302644"
-      alt="View NetForensiq"
-    />
-  </a>
-</p>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zeek-49375F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Suricata-EA963F?style=flat-square"/>
+
+<br/><br/>
+
+<font color="#F4A340">
+  <b>✦ HIGHLIGHTS</b>
+</font>
+
+<br/><br/>
+
+<font color="#F7E9D7">
+  Hash-chained evidence custody
+  <br/>
+  PCAP & APK analysis
+  <br/>
+  MITRE ATT&CK mapping
+  <br/>
+  SIEM exports
+  <br/>
+  <b>11.1× faster</b> packet parsing
+</font>
+
+<br/><br/>
+
+<a href="https://github.com/harsini2006/NetForensiq">
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-F4A340?style=for-the-badge&logo=github&logoColor=302644"
+    alt="View NetForensiq"
+  />
+</a>
+
+<br/><br/>
 
 </td>
-</tr>
-</table>
+
+
+<!-- ================= CONSENTLENS ================= -->
+
+<td width="33%" valign="top" align="center" bgcolor="#49375F">
 
 <br/>
 
-<!-- ================================================= -->
-<!-- 02 — CONSENTLENS                                  -->
-<!-- ================================================= -->
+<img
+  src="https://img.shields.io/badge/02-DIGITAL%20SAFETY-F4A6D7?style=for-the-badge&labelColor=302644"
+/>
 
-<table width="100%">
-<tr>
-<td bgcolor="#49375F">
+<br/><br/>
 
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/02-DIGITAL%20SAFETY-F4A6D7?style=for-the-badge&labelColor=302644"/>
-</p>
-
-<h2 align="center">
+<h2>
   <font color="#F4A6D7">ConsentLens</font>
 </h2>
 
-<p align="center">
-  <font color="#F7E9D7">
-    <b>AI-Powered Digital Safety Toolkit</b>
-  </font>
-</p>
+<font color="#F7E9D7">
+  <b>Digital Safety Toolkit</b>
+</font>
 
-<p align="center">
-  <font color="#DCCCF5">
-    A privacy-first toolkit helping first-time internet users
-    understand digital risks and make safer online decisions.
-  </font>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RUNNER--UP-DSCI%20%C3%97%20RVCE%20SheSafe-F4A6D7?style=flat-square"/>
-</p>
+<font color="#DCCCF5">
+  Privacy-first toolkit helping first-time internet users
+  understand risks and make safer online decisions.
+</font>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <font color="#F4A6D7"><b>✦ KEY HIGHLIGHTS</b></font>
-  <br/><br/>
-  <font color="#F7E9D7">
-    Scam Shield · Safe Browser · Guardian
-    <br/>
-    Learn & Practice · Trusted Circle
-    <br/>
-    On-device checks · OCR · Voice guidance · Kids Mode
-  </font>
-</p>
+<img
+  src="https://img.shields.io/badge/RUNNER--UP-DSCI%20%C3%97%20RVCE%20SheSafe-F4A6D7?style=flat-square"
+/>
 
-<p align="center">
-  <a href="https://github.com/harsini2006/ConsentLensFinal">
-    <img
-      src="https://img.shields.io/badge/VIEW%20PROJECT-F4A6D7?style=for-the-badge&logo=github&logoColor=302644"
-      alt="View ConsentLens"
-    />
-  </a>
-</p>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+<br/><br/>
+
+<font color="#F4A6D7">
+  <b>✦ HIGHLIGHTS</b>
+</font>
+
+<br/><br/>
+
+<font color="#F7E9D7">
+  Scam Shield
+  <br/>
+  Safe Browser
+  <br/>
+  Guardian
+  <br/>
+  Learn & Practice
+  <br/>
+  Trusted Circle
+  <br/>
+  OCR · Voice guidance · Kids Mode
+</font>
+
+<br/><br/>
+
+<a href="https://github.com/harsini2006/ConsentLensFinal">
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-F4A6D7?style=for-the-badge&logo=github&logoColor=302644"
+    alt="View ConsentLens"
+  />
+</a>
+
+<br/><br/>
 
 </td>
-</tr>
-</table>
+
+
+<!-- ================= GUARDIAN SOS ================= -->
+
+<td width="33%" valign="top" align="center" bgcolor="#FCE9D8">
 
 <br/>
 
-<!-- ================================================= -->
-<!-- 03 — GUARDIAN SOS                                 -->
-<!-- ================================================= -->
+<img
+  src="https://img.shields.io/badge/03-ROAD%20SAFETY-EA963F?style=for-the-badge&labelColor=49375F"
+/>
 
-<table width="100%">
-<tr>
-<td bgcolor="#FCE9D8">
+<br/><br/>
 
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/03-ROAD%20SAFETY-EA963F?style=for-the-badge&labelColor=49375F"/>
-</p>
-
-<h2 align="center">
+<h2>
   <font color="#A45C2D">Guardian SOS</font>
 </h2>
 
-<p align="center">
-  <font color="#49375F">
-    <b>Intelligent Road Safety Emergency Response</b>
-  </font>
-</p>
+<font color="#49375F">
+  <b>Road Safety Emergency Response</b>
+</font>
 
-<p align="center">
-  <font color="#49375F">
-    A mobile emergency-response application focused on helping
-    users contact guardians and access nearby assistance.
-  </font>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IIT%20MADRAS-Road%20Safety%20Hackathon-EA963F?style=flat-square"/>
-</p>
+<font color="#49375F">
+  Mobile emergency-response application helping users
+  contact guardians and access nearby assistance.
+</font>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <font color="#A45C2D"><b>✦ KEY HIGHLIGHTS</b></font>
-  <br/><br/>
-  <font color="#49375F">
-    Live GPS tracking · Emergency contact alerts
-    <br/>
-    Voice-based SOS · Nearby emergency assistance
-    <br/>
-    Offline communication support
-  </font>
-</p>
+<img
+  src="https://img.shields.io/badge/IIT%20MADRAS-Road%20Safety%20Hackathon-EA963F?style=flat-square"
+/>
 
-<p align="center">
-  <a href="https://github.com/harsini2006/GuardianSOSfinal">
-    <img
-      src="https://img.shields.io/badge/VIEW%20PROJECT-EA963F?style=for-the-badge&logo=github&logoColor=302644"
-      alt="View Guardian SOS"
-    />
-  </a>
-</p>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+<br/><br/>
+
+<font color="#A45C2D">
+  <b>✦ HIGHLIGHTS</b>
+</font>
+
+<br/><br/>
+
+<font color="#49375F">
+  Live GPS tracking
+  <br/>
+  Emergency contact alerts
+  <br/>
+  Voice-based SOS
+  <br/>
+  Nearby emergency assistance
+  <br/>
+  Offline communication support
+</font>
+
+<br/><br/>
+
+<a href="https://github.com/harsini2006/GuardianSOSfinal">
+  <img
+    src="https://img.shields.io/badge/VIEW%20PROJECT-EA963F?style=for-the-badge&logo=github&logoColor=302644"
+    alt="View Guardian SOS"
+  />
+</a>
+
+<br/><br/>
 
 </td>
+
 </tr>
 </table>
 
 <br/>
-
 <!-- ================================================= -->
 <!--              END PROJECT SHOWCASE                 -->
 <!-- ================================================= -->
