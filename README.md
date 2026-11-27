@@ -1,11 +1,6 @@
-<p align="center">
-  <img
-    src="./harsini-readme-assets/assets/screen_recording_slow_peeping.gif"
-    alt="Harsini's pixel fox mascot top banner"
-    width="50%"
-  />
-</p>
-
+<div align="center">
+  <img src="./assets/harsini-readme-assets/assets/screen_recording_slow_peeping.gif" alt="Harsini's pixel fox mascot top banner" width="50%" />
+</div>
 <!-- SPACE AFTER FOX -->
 
 <!-- ANIMATED NAME -->
