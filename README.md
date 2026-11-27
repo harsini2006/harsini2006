@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/harsini-readme-assets/assets/fox-top-banner.png"
+    src="assets/harsini-readme-assets/assets/Screen Recording 2026-11-27 133252.mp4"
     alt="Harsini's pixel fox mascot"
     width="100%"
   />
