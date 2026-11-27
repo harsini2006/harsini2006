@@ -1,12 +1,10 @@
 <p align="center">
   <img
-    src="assets/harsini-readme-assets/assets/Screen Recording 2026-11-27 133252.mp4"
-    alt="Harsini's pixel fox mascot"
+    src="./assets/harsini-readme-assets/assets/top-banner.gif"
+    alt="Harsini's pixel fox mascot top banner"
     width="100%"
   />
 </p>
-
-<div align="center">
 
 <!-- SPACE AFTER FOX -->
 
