@@ -2,7 +2,7 @@
   <img
     src="./assets/harsini-readme-assets/assets/screen_recording.gif"
     alt="Harsini's pixel fox mascot top banner"
-    width="100%"
+    width="50%"
   />
 </p>
 
